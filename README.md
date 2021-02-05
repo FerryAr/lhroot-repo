@@ -11,5 +11,5 @@ Repository for [lhroot](https://github.com/FerryAr/lhroot) Magisk module.
 ## Notice :
 - Please ensure the version is at latest release or LTS relese (ex. Ubuntu 20.04).
 - Use the correct folder path in accordance with the architecture. (ex. Rootfs/Debian/armhf/debian-rootfs-armhf.tar.xz)
-- File name format, please use <distro-name>-rootfs-<arch>
+- File name format, please use [distro-name]-rootfs-[arch]
  
